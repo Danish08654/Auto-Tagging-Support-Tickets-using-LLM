@@ -34,7 +34,7 @@ The dataset contains real-world styled support tickets with fields such as:
 ###  1. Data Preprocessing
 - Combined text fields:
 
-- - Cleaned and formatted input text
+-  Cleaned and formatted input text
 
 
 ###  2. Zero-Shot Learning
@@ -54,7 +54,6 @@ The dataset contains real-world styled support tickets with fields such as:
 - Used transformer-based model (e.g., BERT / FLAN-T5)  
 - Evaluated performance improvement  
 
----
 
 ###  5. Top-3 Tag Prediction
 
